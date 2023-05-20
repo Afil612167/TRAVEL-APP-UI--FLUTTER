@@ -119,14 +119,14 @@ class TravelNowScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  "Michel",
+                  "Muhammed",
                   style: TextStyle(
                     color: Colors.black,
                     fontSize: 20,
                   ),
                 ),
                 Text(
-                  "Alexander",
+                  "Afil",
                   style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
